@@ -19,10 +19,6 @@ Bootstrapとは、WEBページでよく使われるフォーム、ボタン、�
 以下のリンクからBootstrapの公式ページを開いてください。
 - [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 
-「Get started」をクリックします。
-
-![Bootstrap](img/bs1.png)
-
 赤く囲った２つのリンクをhtmlファイルの中にコピーします。
 
 
